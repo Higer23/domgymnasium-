@@ -1,0 +1,263 @@
+.news-image-teaser {
+    margin:0 0 2ex 0;
+    padding-top:.3ex;
+    border-top:1px solid #333333;
+    clear:both;
+}
+
+.news-image-teaser p {
+    color:#161616;
+}
+
+.forminline {
+	display: inline;
+}
+
+h1 {
+	font-size:1.4em;
+}
+
+h2 {
+	font-size:1.2em;
+	font-weight:bold;
+}
+
+.koltab {
+	font-size:71%;
+	margin-top:8ex;
+}
+
+.layout_full {
+	font-size:1em;
+	border-top:1px solid black;
+}
+
+.layout_full p {
+	margin:.2em 0 .2em 0;
+}
+
+.event .info {
+	font-size:90%;
+	margin:0;
+/*	border-top:1px solid black;*/
+}
+
+.sidebar {
+	margin-top:0;
+}
+
+.navimu ul {
+	margin-left:.4em;
+}
+
+.navimu .level_2 {
+/*    margin-left:.7em;*/
+    font-size:90%;
+}
+
+.navimu .level_3 {
+/*	margin-left:.5em;*/
+	font-size:90%;
+}
+
+/*.navimu {
+	background-color:rgba(0,0,34,0.5);
+	margin:0;
+}
+*/
+.ce_downloads, .navimu {
+	margin: 1.6875em 0;
+	padding: 1.25em 1.875em;
+/*    padding: 0.75em 1.15em;*/
+	border: 1px solid #dedede;
+	-webkit-border-radius: 1.5px;
+	-moz-border-radius: 1.5px;
+	border-radius: 1.5px;
+	font-size: 0.88889em;
+	background: #ffffff;
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.02));
+	background-image: -moz-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.02));
+	background-image: -o-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.02));
+	background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.02));
+	-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.mod_article h1 {
+	font-size:1.3em;
+}
+
+.mod_article h2 {
+	font-size:1.1em;
+	color:#3d566e;
+}
+
+.ce_downloads h1, .navimu h1 {
+	margin: -1.75em -2.58333em 1.66667em;
+	padding: 0.66667em 1.66667em;
+	font-size: 0.8em;
+	font-weight: 600;
+	letter-spacing: 0.08333em;
+	color: #ffffff;
+	text-transform: uppercase;
+	background: #3d566e;
+}
+
+/*.navimu h1 {
+	font-size:122%;
+	background-color:rgba(0,0,34,0.7);
+	color:#eeeeee;
+	padding:.5ex 1ex .5ex 1ex;
+}*/
+
+.navimu .trail {
+	color:#800000;
+}
+
+.navimu .active {
+	font-weight:bold;
+	color:#800000;
+}
+
+.ce_text {
+	color:#161616;
+}
+
+.news-image-teaser img {
+    width:auto;
+    height:auto;
+    min-width:60px;
+    min-height:60px;
+    max-width:120px;
+    max-height:200px;
+    float:left;
+    display:block;
+    margin:.3em 2em 1em 0;
+}
+
+
+.rechts {
+	float: right;
+}
+
+.rechtstext {
+	text-align:right;
+}
+
+.odd {
+	background-color:rgba(0,0,34,0.1);
+}
+
+.leitsatz {
+/*    margin:.3em auto .6em;*/
+    vertical-align:middle;
+    text-align:center;
+    font-size:109%;
+    font-weight:bold;
+    font-style:italic;
+    text-decoration:none;
+    color:#17540d;
+}
+
+.leitsatz p h1 {
+    background-color:rgba(0,0,34,0.1);
+    font-style:italic;
+    text-decoration:none;
+    color:#17540d;
+}
+
+
+.noscale {
+/*	height:30ex;
+	overflow:visible;*/
+}
+
+rollnews {
+	height:40ex;
+	overflow:visible;
+}
+
+.hinterdog {
+/*    width:100%;
+    vertical-align:bottom;
+    text-align:left;
+    white-space:nowrap;*/
+    height:220px;
+    background:white url("../dom/together.jpg") left top no-repeat scroll;
+}
+
+.thelogo {
+/*    background-color:#eeeeee;*/
+}
+
+/*.mod_article h1 {
+	font-size:1.3em;
+}*/
+
+.layout_full h1 {
+	font-size:1.1em;
+}
+
+a {
+	color:#176fc1;
+}
+
+.box {
+    margin-right:auto;
+    margin-bottom:1em;
+    margin-left:auto;
+    vertical-align:middle;
+    text-align:left;
+    background-color:rgba(0,0,34,.1);
+    border:2px solid #aaaaaa;
+    border-radius:3px;
+    behavior:url('assets/css3pie/1.0.0/PIE.html');
+}
+
+.box h1 h2 {
+	padding:.2em;
+}
+
+.maigruen {
+	background-color:#bbdb9d;
+}
+
+.mailila {
+	background-color:#b2bcdf;
+}
+
+.maigelb {
+	background-color:#f2e38c;
+}
+
+.maigrau {
+	background-color:#C7C8Ca;
+}
+
+.maibraun {
+	background-color:#800000;
+}
+
+.maiorange {
+	background-color:#BF6300;
+}
+
+.maiblau {
+	background-color:#81C4E1;
+}
+
+.maiweisstxt {
+	color:#ffffff;
+}
+
+.rechtsbox {
+	margin: 0;
+	padding: 0;
+	border:2px solid #ffffff;
+	background-color:#ffffff;
+}
+
+.kleiner {
+	font-size:80%;
+}
